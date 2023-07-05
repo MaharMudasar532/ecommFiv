@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">363601243272-bvavai7nv6dg14abparu2ik1tmmk56ms.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://dealsgala--login.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">363601243272</string>
+    <string name="google_api_key" translatable="false">AIzaSyDjzJ43XJDJuSVqo_tNWDnn9OdHseNi2qc</string>
+    <string name="google_app_id" translatable="false">1:363601243272:android:b9797ade5525ab39c8433d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDjzJ43XJDJuSVqo_tNWDnn9OdHseNi2qc</string>
+    <string name="google_storage_bucket" translatable="false">dealsgala--login.appspot.com</string>
+    <string name="project_id" translatable="false">dealsgala--login</string>
+</resources>

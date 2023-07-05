@@ -1,0 +1,4 @@
+# Referenced at C:\Users\my-pc\Desktop\rn_dealsgala-master\android\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:53
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\my-pc\Desktop\rn_dealsgala-master\android\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:53
+-keep class com.dealsgala.MainApplication { <init>(); }

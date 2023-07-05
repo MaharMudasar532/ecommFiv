@@ -1,0 +1,10 @@
+#Sun Jun 25 21:10:05 PDT 2023
+base.2=C\:\\Users\\my-pc\\Desktop\\rn_dealsgala-master\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes3.dex
+path.2=classes3.dex
+base.1=C\:\\Users\\my-pc\\Desktop\\rn_dealsgala-master\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes2.dex
+path.1=classes2.dex
+base.0=C\:\\Users\\my-pc\\Desktop\\rn_dealsgala-master\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
