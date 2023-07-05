@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "363601243272",
+    "firebase_url": "https://dealsgala--login.firebaseio.com",
+    "project_id": "dealsgala--login",
+    "storage_bucket": "dealsgala--login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363601243272:android:b9797ade5525ab39c8433d",
+        "android_client_info": {
+          "package_name": "com.dealsgala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363601243272-ii76oq3r30fiphkrbjnuce5o5ie4j5t0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dealsgala",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "363601243272-bvavai7nv6dg14abparu2ik1tmmk56ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjzJ43XJDJuSVqo_tNWDnn9OdHseNi2qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363601243272-bvavai7nv6dg14abparu2ik1tmmk56ms.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "363601243272-fmfcl441d8te8l7431tgsvvusapp78po.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dealsgala.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
